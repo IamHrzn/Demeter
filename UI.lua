@@ -622,7 +622,7 @@ function Library.Load(LibConfig)
 
                     local TogglePopUp = Create("Frame", {
                         AnchorPoint = Vector2.new(0.5, 0.5),
-                        BackgroundColor3 = Color3.fromRGB(0, 150, 100),
+                        BackgroundColor3 = Color3.fromRGB(147, 0, 9),
                         Position = UDim2.new(0.5, 0, 0.5, 0),
                         Size = UDim2.new(0.5, 0, 0.5, 0),
                         BackgroundTransparency = 1,
